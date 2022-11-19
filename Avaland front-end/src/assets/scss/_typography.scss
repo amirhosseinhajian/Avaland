@@ -1,0 +1,38 @@
+body {
+	font-family: 'Peyda', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: 400;
+   color: #FFFFFF;
+}
+
+h1 {
+   @include font (2rem, 900, 2.8);
+}
+
+h2 {
+   @include font (1.75rem, 900, 2.8);
+}
+
+h3 {
+   @include font (1.5rem, 900, 2.8);
+}
+
+h4 {
+   @include font (1.25rem, 900, 2.8);
+}
+
+h5 {
+   @include font (1.15rem, 900, 2.8);
+}
+
+h6 {
+   @include font (1rem, 900, 2.8);
+}
+
+p {
+   @include font (1rem, 400, 1.5);
+}
+
+small {
+   @include font (0.75rem, 400, 1.5);
+}
+

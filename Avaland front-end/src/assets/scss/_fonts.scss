@@ -1,0 +1,95 @@
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 100;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Thin.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Thin.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-Thin.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-Thin.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-Thin.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 200;
+	src: url('@/assets/fonts/PeydaWeb/eot/peydaWeb-extralight.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/peydaWeb-extralight.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/peydaWeb-extralight.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/peydaWeb-extralight.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/peyda-extralight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 300;
+	src: url('@/assets/fonts/PeydaWeb/eot/peydaWeb-light.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/peydaWeb-light.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/peydaWeb-light.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/peydaWeb-light.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/peyda-light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 400;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Regular.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Regular.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-Regular.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-Regular.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 500;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Medium.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Medium.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-Medium.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-Medium.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 600;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-SemiBold.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-SemiBold.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-SemiBold.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-SemiBold.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 700;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Bold.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Bold.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-Bold.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-Bold.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 800;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-ExtraBold.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-ExtraBold.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-ExtraBold.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-ExtraBold.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Peyda';
+	font-weight: 900;
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Black.eot');
+	src: url('@/assets/fonts/PeydaWeb/eot/PeydaWeb-Black.eot') format("embedded-opentype"),
+			url('@/assets/fonts/PeydaWeb/woff2/PeydaWeb-Black.woff2') format('woff2'),
+			url('@/assets/fonts/PeydaWeb/woff/PeydaWeb-Black.woff') format('woff'),
+			url('@/assets/fonts/PeydaWeb/ttf/Peyda-Black.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'IranNastaliq';
+	font-weight: 400;
+	src: url('@/assets/fonts/IranNastaliq/ttf/IranNastaliq.ttf');
+}
